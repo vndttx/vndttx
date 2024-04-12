@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vndttx
-- 👀 I’m interested in Node.js and JS
-- 🌱 I’m currently learning PHP and trying to do it asap
-- ⚡ Fun fact: I currently work as an investment advisor and I'm trying to get as much knowledge as possible
+Hi, I’m @vndttx
+I’m interested in C and C++
+Currently learning Python, JS and C to get the most knowledge as possible
+About me: I currently work as an investment advisor, but I'm getting a degree in System Analysis. 
 
 <!---
 vndttx/vndttx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
